@@ -42,15 +42,9 @@ CREATE TABLE `registration` (
 --
 
 INSERT INTO `registration` (`reg_id`, `firstname`, `username`, `email`, `password`, `birthdate`, `gender`) VALUES
-(1, 'Sayem', 'chowdhury', 'sayem@gmail.com', '12345678', '12-12-12', 'male'),
-(2, 'Mohammad Sayem', 'chowdhury', 'sayem@gmail.com', '12345678', '12-12-12', 'male'),
-(3, 'Mohammad Sayem', 'chowdhury', 'sayem@gmail.com', '12345678', '12-12-12', 'male'),
-(4, 'Mohammad Sayem', 'sssr3f4r3f', 'sayem@', '12345678', '12-12-12', 'male'),
-(5, 'Mohammad Sayem', 'sssr3f4r3f', 'sayem@', '12345678', '12-12-12', ''),
-(6, 'Mohammad Sayem', 'sssr3f4r3f', 'sayem@', '12345678', '', ''),
-(7, 'Mohammad Sayem', 'sssr3f4r3f', 'sayem@', '12345678', '', ''),
-(8, 'Mohammad Sayem', 'sssr3f4r3f', 'sayem@', '12345678', '', ''),
-(9, 'Mohammad Sayem', 'sssr3f4r3f', 'sayem@', '12345678', '2021-03-17', 'male');
+(1, 'kazi', 'shayem', 'shayem@gmail.com', '12345678', '12-12-12', 'male'),
+(2, 'Sayem', 'mahamood', 'sayemmahamood@gmail.com', '12345678', '12-12-12', 'male'),
+(3, 'shekh', 'chowdhury', 'shekh@gmail.com', '12345678', '12-12-12', 'male')
 
 --
 -- Indexes for dumped tables
